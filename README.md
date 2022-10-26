@@ -1,5 +1,5 @@
 ### Hi there 👋
-A full-stack web developer currently working with ReactJS
+full-stack 
 
 ![](https://komarev.com/ghpvc/?username=MichaelVez&color=brightgreen)
 <!--
